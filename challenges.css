@@ -1,0 +1,44 @@
+.react-datepicker-wrapper {
+  width: 100%;
+}
+
+.errorMessage {
+  width: 100%;
+  margin-top: 0.25rem;
+  font-size: 80%;
+  color: #f86c6b;
+}
+
+.btn.disabled {
+  cursor: auto;
+}
+
+.divStyle ul {
+  float: Right;
+  padding-left: 0;
+  list-style: none;
+  max-width: 300px;
+  justify-content: space-between;
+  background: #fff;
+  border-radius: 5px;
+  display: flex;
+}
+
+.divStyle a {
+  display: flex;
+  padding: 10px;
+}
+
+.active a {
+  color: red !important;
+}
+
+.ilogo {
+  width: 50px;
+  height: 50px;
+}
+
+.showImg {
+  width: 200px;
+  height: 100px;
+}
